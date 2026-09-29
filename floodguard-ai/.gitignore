@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/data/*.db
+backend/data/*.csv
+backend/ml/*.pkl
+venv/
